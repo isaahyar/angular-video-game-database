@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "ng-video-game-db"
+  "defaultProject": "ng-video-game-db",
+  "cli": {
+    "analytics": false
+  }
 }
