@@ -1,4 +1,6 @@
-# NgVideoGameDb
+# Angular Video Game Database
+
+Video game database made using Angular as frontend and RAWG Game Database API as backend to feed data.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
